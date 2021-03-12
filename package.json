@@ -30,7 +30,7 @@
     "postcss": "^8.1.0"
   },
   "devDependencies": {
-    "clean-publish": "^1.1.8",
+    "clean-publish": "^2.1.0",
     "eslint": "7.14.0",
     "less": "3.12.2",
     "lodash": "^4.17.20",
